@@ -1,0 +1,8 @@
+{
+  "name": "root",
+  "private": true,
+   "workspaces": ["workspace-a", "workspace-b"],
+  "devDependencies": {
+    "lerna": "^3.13.0"
+  }
+}
