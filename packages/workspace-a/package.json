@@ -1,6 +1,7 @@
 {
   "name": "workspace-a",
   "version": "1.0.0",
+  "description": "testing changes in git ...",
 
   "dependencies": {
     "cross-env": "5.0.5"
